@@ -11,8 +11,8 @@ julia> using Pkg; Pkg.add("IJulia")
 ```
 
 2. Start Jupyter, you should see the Julia kernel available.
-
+```
 cd C:\Users\ejang-pc\Desktop\chaos_randomness"
 "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\python.exe" -m jupyter notebook
 
-
+```
